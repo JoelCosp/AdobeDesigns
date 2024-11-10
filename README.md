@@ -11,7 +11,7 @@
 ## Galería de Diseños
 
 <div align="center">
-  <img src="main/images/cartellControlEsfinters" alt="Diseño 1" width="300px" style="margin: 10px;">
+  <img src="JoelCosp/images/cartellControlEsfinters" alt="Diseño 1" width="300px" style="margin: 10px;">
   <img src="images/design2.jpg" alt="Diseño 2" width="300px" style="margin: 10px;">
   <img src="images/design3.jpg" alt="Diseño 3" width="300px" style="margin: 10px;">
 </div>
