@@ -1,5 +1,3 @@
-# AdobeDesigns
-
 <h1 align="center">✨ Portfolio de Diseño ✨</h1>
 
 <p align="center">
