@@ -11,14 +11,14 @@
 ## Galería de Diseños
 
 <div align="center">
+  <img src="https://github.com/JoelCosp/JoelCosp/raw/main/images/cartellImproShow.jpg" alt="Diseño 1" width="300px" style="margin: 10px;">
+  <img src="https://github.com/JoelCosp/JoelCosp/raw/main/images/cartellFemCamiAlTeuCostat.jpg" alt="Diseño 1" width="300px" style="margin: 10px;">
   <img src="https://github.com/JoelCosp/JoelCosp/raw/main/images/cartellControlEsfinters.jpg" alt="Diseño 1" width="300px" style="margin: 10px;">
-  <img src="images/design2.jpg" alt="Diseño 2" width="300px" style="margin: 10px;">
-  <img src="images/design3.jpg" alt="Diseño 3" width="300px" style="margin: 10px;">
 </div>
 <div align="center">
-  <img src="images/design4.jpg" alt="Diseño 4" width="300px" style="margin: 10px;">
-  <img src="images/design5.jpg" alt="Diseño 5" width="300px" style="margin: 10px;">
-  <img src="images/design6.jpg" alt="Diseño 6" width="300px" style="margin: 10px;">
+  <img src="https://github.com/JoelCosp/JoelCosp/raw/main/images/rollUpFemCamiAlTeuCostat.jpg" alt="Diseño 1" width="300px" style="margin: 10px;">
+  <img src="https://github.com/JoelCosp/JoelCosp/raw/main/images/tripticFemCamiAlTeuCostat1.jpg" alt="Diseño 1" width="300px" style="margin: 10px;">
+  <img src="https://github.com/JoelCosp/JoelCosp/raw/main/images/tripticFemCamiAlTeuCostat2.jpg" alt="Diseño 1" width="300px" style="margin: 10px;">
 </div>
 
 ---
